@@ -22,6 +22,9 @@ This project performs end-to-end analysis of e-commerce sales data including:
   - Deep Learning regression model
   - Random Forest model
 
+## DataSet
+- train.csv
+
 
 ## 🧠 ML Models
 - **Deep Learning**: 2 hidden layers with ReLU, trained using Mean Squared Error.
